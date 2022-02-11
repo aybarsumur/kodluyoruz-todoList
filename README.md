@@ -1,5 +1,5 @@
-# Kodluyoruz - Bootstrap Ödev 3
-## Linkedin clone tasarımı 
+# Kodluyoruz - JavaScript Ödev 2
+## Javascript ile To Do List
 Tasarım Görseli - [Kodluyoruz Todo](https://aybarsumur.github.io/kodluyoruz-todoList/)
 
 ![Ekran Resmi](./kodluyoruz-todo/img/javascript-odev2-kodluyoruztodo.jpg)
