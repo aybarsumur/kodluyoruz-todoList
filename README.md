@@ -1,10 +1,11 @@
 # Kodluyoruz - JavaScript Ödev 2
 ## Javascript ile To Do List
-Tasarım Görseli - [Kodluyoruz Todo](https://aybarsumur.github.io/kodluyoruz-todoList/)
+
+### Tasarım Görseli - [Kodluyoruz Todo](https://aybarsumur.github.io/kodluyoruz-todoList/)
 
 ![Ekran Resmi](./kodluyoruz-todo/img/javascript-odev2-kodluyoruztodo.jpg)
 
-Tasarım Görseli - [My Todo](https://kodluyoruz.org)
+### Tasarım Görseli - [My Todo](https://aybarsumur.github.io/kodluyoruz-todoList/)
 
 ![Ekran Resmi](./my-todo/img/javascript-odev2-mytodo.jpg)
 
